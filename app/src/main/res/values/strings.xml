@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QuizApp_Am</string>
+    <string name="Login">Login</string>
+    <string name="SignIn">SignIn</string>
+    <string name="Register">Register</string>
+    <string name="SignUp">SignUp</string>
+    <string name="Click_to_login">Click to login</string>
+    <string name="to_register_click_here">to register click here</string>
+    <string name="logout">logout</string>
+</resources>
